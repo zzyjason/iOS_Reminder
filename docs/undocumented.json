@@ -1,0 +1,3729 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 12,
+      "symbol": "AddNewGroupViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 17,
+      "symbol": "AddNewGroupViewController.MemberSelectionTableViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 19,
+      "symbol": "AddNewGroupViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 31,
+      "symbol": "AddNewGroupViewController.EditMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 33,
+      "symbol": "AddNewGroupViewController.CurrentGroup",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 35,
+      "symbol": "AddNewGroupViewController.CurrentGroupMember",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 39,
+      "symbol": "AddNewGroupViewController.EditModeSetUp()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 48,
+      "symbol": "AddNewGroupViewController.GroupVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 50,
+      "symbol": "AddNewGroupViewController.GroupName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 52,
+      "symbol": "AddNewGroupViewController.MemberSelection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 54,
+      "symbol": "AddNewGroupViewController.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 56,
+      "symbol": "AddNewGroupViewController.userVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 58,
+      "symbol": "AddNewGroupViewController.selectedUsers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 60,
+      "symbol": "AddNewGroupViewController.userCellId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 62,
+      "symbol": "AddNewGroupViewController.initialVarUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 74,
+      "symbol": "AddNewGroupViewController.initialUsersArray()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 85,
+      "symbol": "AddNewGroupViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 89,
+      "symbol": "AddNewGroupViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 114,
+      "symbol": "AddNewGroupViewController.addSeparatorLine(tableView:cell:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 120,
+      "symbol": "AddNewGroupViewController.sectionImages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 122,
+      "symbol": "AddNewGroupViewController.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 137,
+      "symbol": "AddNewGroupViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 162,
+      "symbol": "AddNewGroupViewController.removeUserFromSelectedArray(uid:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 173,
+      "symbol": "AddNewGroupViewController.save()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 206,
+      "symbol": "AddNewGroupViewController.EditSave()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/AddNewGroupViewController.swift",
+      "line": 233,
+      "symbol": "AddNewGroupViewController.alert(msg:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/ChatLogController.swift",
+      "line": 23,
+      "symbol": "ChatLogController.curGroup",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/ChatLogController.swift",
+      "line": 615,
+      "symbol": "ChatMessageCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DatabaseService.swift",
+      "line": 35,
+      "symbol": "DatabaseService.userGroupsRef",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DesignableUITextField.swift",
+      "line": 12,
+      "symbol": "DesignableUITextField",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DesignableUITextField.swift",
+      "line": 15,
+      "symbol": "DesignableUITextField.leftViewRect(forBounds:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DesignableUITextField.swift",
+      "line": 21,
+      "symbol": "DesignableUITextField.leftImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DesignableUITextField.swift",
+      "line": 27,
+      "symbol": "DesignableUITextField.leftPadding",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DesignableUITextField.swift",
+      "line": 29,
+      "symbol": "DesignableUITextField.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/DesignableUITextField.swift",
+      "line": 35,
+      "symbol": "DesignableUITextField.updateView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 16,
+      "symbol": "FbUser.userId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 17,
+      "symbol": "FbUser.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 18,
+      "symbol": "FbUser.email",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 19,
+      "symbol": "FbUser.created",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 20,
+      "symbol": "FbUser.profileImageURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 21,
+      "symbol": "FbUser.notes_done",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 22,
+      "symbol": "FbUser.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 23,
+      "symbol": "FbUser.uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 26,
+      "symbol": "FbUser.init(uid:dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 45,
+      "symbol": "UsersSnapshot.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 47,
+      "symbol": "UsersSnapshot.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 67,
+      "symbol": "FbSharingList.gid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 68,
+      "symbol": "FbSharingList.lid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 69,
+      "symbol": "FbSharingList.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 70,
+      "symbol": "FbSharingList.uploaded_date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 71,
+      "symbol": "FbSharingList.uploaded_by_uid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 72,
+      "symbol": "FbSharingList.notes_num",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 73,
+      "symbol": "FbSharingList.notes_done",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 75,
+      "symbol": "FbSharingList.init(listId:dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 94,
+      "symbol": "ListsSnapshot.lists",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 96,
+      "symbol": "ListsSnapshot.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 119,
+      "symbol": "FbSharingListNote.nid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 120,
+      "symbol": "FbSharingListNote.lid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 121,
+      "symbol": "FbSharingListNote.gid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 122,
+      "symbol": "FbSharingListNote.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 123,
+      "symbol": "FbSharingListNote.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 124,
+      "symbol": "FbSharingListNote.done",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 125,
+      "symbol": "FbSharingListNote.doneby",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 126,
+      "symbol": "FbSharingListNote.due",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 127,
+      "symbol": "FbSharingListNote.created",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 129,
+      "symbol": "FbSharingListNote.init(noteId:dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 149,
+      "symbol": "NotesSnapshot.notes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 151,
+      "symbol": "NotesSnapshot.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 176,
+      "symbol": "FbMessage.messageId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 177,
+      "symbol": "FbMessage.fromId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 178,
+      "symbol": "FbMessage.toId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 179,
+      "symbol": "FbMessage.timestamp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 180,
+      "symbol": "FbMessage.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 181,
+      "symbol": "FbMessage.imageURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 182,
+      "symbol": "FbMessage.imageWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 183,
+      "symbol": "FbMessage.imageHeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 184,
+      "symbol": "FbMessage.groupName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 186,
+      "symbol": "FbMessage.init(messageId:dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 202,
+      "symbol": "FbMessage.chatPartnerId()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 212,
+      "symbol": "ToUserMessageAddress.toUserMessageId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 213,
+      "symbol": "ToUserMessageAddress.timestamp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 215,
+      "symbol": "ToUserMessageAddress.init(dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 224,
+      "symbol": "UserMessageSnapshot.userMessageAddress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 227,
+      "symbol": "UserMessageSnapshot.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 247,
+      "symbol": "UserMessageSnapshot.init(withP2P:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 263,
+      "symbol": "MessageSnapshot.userMsgs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 265,
+      "symbol": "MessageSnapshot.init(with:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 284,
+      "symbol": "UserIdsSnapshot.userIds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 286,
+      "symbol": "UserIdsSnapshot.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 301,
+      "symbol": "FbGroup",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 304,
+      "symbol": "FbGroup.gid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 305,
+      "symbol": "FbGroup.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 306,
+      "symbol": "FbGroup.created",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 307,
+      "symbol": "FbGroup.host",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 310,
+      "symbol": "FbGroup.init(dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 321,
+      "symbol": "FbGroup.init(gid:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 329,
+      "symbol": "UserGroupAddress",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 331,
+      "symbol": "UserGroupAddress.gid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 332,
+      "symbol": "UserGroupAddress.created",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 334,
+      "symbol": "UserGroupAddress.init(dict:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 340,
+      "symbol": "GroupSnapshot",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 342,
+      "symbol": "GroupSnapshot.groups",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 344,
+      "symbol": "GroupSnapshot.init(with:addresses:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 360,
+      "symbol": "UserGroupSnapshot",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 362,
+      "symbol": "UserGroupSnapshot.gAddresses",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/FireBaseDataStructure.swift",
+      "line": 364,
+      "symbol": "UserGroupSnapshot.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupMemberTableViewCell.swift",
+      "line": 11,
+      "symbol": "GroupMemberTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupMemberTableViewCell.swift",
+      "line": 13,
+      "symbol": "GroupMemberTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupMemberTableViewCell.swift",
+      "line": 18,
+      "symbol": "GroupMemberTableViewCell.ProfliePictureView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupMemberTableViewCell.swift",
+      "line": 20,
+      "symbol": "GroupMemberTableViewCell.Name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupMemberTableViewCell.swift",
+      "line": 22,
+      "symbol": "GroupMemberTableViewCell.Selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupMemberTableViewCell.swift",
+      "line": 25,
+      "symbol": "GroupMemberTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 36,
+      "symbol": "GroupViewController.userAndGroup",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 38,
+      "symbol": "GroupViewController.userVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 118,
+      "symbol": "GroupViewController.EditAction()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 137,
+      "symbol": "GroupViewController.EditGroup()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 141,
+      "symbol": "GroupViewController.dismissGroup()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 420,
+      "symbol": "GroupViewController.addNewList()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 648,
+      "symbol": "UserCell.statusImageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 682,
+      "symbol": "UserCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/GroupViewController.swift",
+      "line": 706,
+      "symbol": "ListCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/LoginViewController.swift",
+      "line": 15,
+      "symbol": "LoginViewController.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/MessagesController.swift",
+      "line": 37,
+      "symbol": "MessagesController.curGroup",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/MessagesController.swift",
+      "line": 65,
+      "symbol": "MessagesController.showGroupChatViewWith(gid:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/MessagesController.swift",
+      "line": 286,
+      "symbol": "UserMessageCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/ProfileTableViewController.swift",
+      "line": 384,
+      "symbol": "ProfileTableViewController.TryLogOut(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/ProfileTableViewController.swift",
+      "line": 389,
+      "symbol": "ProfileTableViewController.NewFeatureTransit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/ProfileTableViewController.swift",
+      "line": 391,
+      "symbol": "ProfileTableViewController.Logout()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 11,
+      "symbol": "SelectionTableViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 13,
+      "symbol": "SelectionTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 23,
+      "symbol": "SelectionTableViewController.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 24,
+      "symbol": "SelectionTableViewController.fetchUsers()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 42,
+      "symbol": "SelectionTableViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 51,
+      "symbol": "SelectionTableViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 56,
+      "symbol": "SelectionTableViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/SelectionTableViewController.swift",
+      "line": 63,
+      "symbol": "SelectionTableViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/UserViewController.swift",
+      "line": 37,
+      "symbol": "UserViewController.groups",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/UserViewController.swift",
+      "line": 53,
+      "symbol": "UserViewController.CheckLogin()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/UserViewController.swift",
+      "line": 62,
+      "symbol": "UserViewController.LoginReturned",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/UserViewController.swift",
+      "line": 440,
+      "symbol": "UserViewController.showAddNewGroupController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/UserViewController.swift",
+      "line": 461,
+      "symbol": "UserViewController.tableView(_:editActionsForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Account/UserViewController.swift",
+      "line": 483,
+      "symbol": "UserViewController.AdjustPriority(_:row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 11,
+      "symbol": "AddItemViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 15,
+      "symbol": "AddItemViewController.Cost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 16,
+      "symbol": "AddItemViewController.Content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 17,
+      "symbol": "AddItemViewController.Category",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 18,
+      "symbol": "AddItemViewController.CategorypickerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 20,
+      "symbol": "AddItemViewController.categorys",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 23,
+      "symbol": "AddItemViewController.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 27,
+      "symbol": "AddItemViewController.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 31,
+      "symbol": "AddItemViewController.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 35,
+      "symbol": "AddItemViewController.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 40,
+      "symbol": "AddItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 47,
+      "symbol": "AddItemViewController.btnTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 66,
+      "symbol": "AddItemViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/AddItemViewController.swift",
+      "line": 72,
+      "symbol": "AddItemViewController.checkEnteringContent()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 11,
+      "symbol": "ExpenseTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 13,
+      "symbol": "ExpenseTableViewCell.CategoryImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 14,
+      "symbol": "ExpenseTableViewCell.ItemCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 15,
+      "symbol": "ExpenseTableViewCell.ItemCost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 16,
+      "symbol": "ExpenseTableViewCell.ItemDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 19,
+      "symbol": "ExpenseTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseTableViewCell.swift",
+      "line": 24,
+      "symbol": "ExpenseTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 12,
+      "symbol": "ExpenseViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 14,
+      "symbol": "ExpenseViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 16,
+      "symbol": "ExpenseViewController.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 18,
+      "symbol": "ExpenseViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 24,
+      "symbol": "ExpenseViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 34,
+      "symbol": "ExpenseViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 40,
+      "symbol": "ExpenseViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 45,
+      "symbol": "ExpenseViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 58,
+      "symbol": "ExpenseViewController.getData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 69,
+      "symbol": "ExpenseViewController.tableView(_:commit:forRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/ExpenseViewController.swift",
+      "line": 88,
+      "symbol": "ExpenseViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": null,
+      "symbol": "PieChartViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 13,
+      "symbol": "PieChartViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 15,
+      "symbol": "PieChartViewController.hostView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 17,
+      "symbol": "PieChartViewController.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 18,
+      "symbol": "PieChartViewController.sum",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 19,
+      "symbol": "PieChartViewController.NumofRecord",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 20,
+      "symbol": "PieChartViewController.Stringarray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 21,
+      "symbol": "PieChartViewController.Doublearray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 64,
+      "symbol": "PieChartViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 70,
+      "symbol": "PieChartViewController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 75,
+      "symbol": "PieChartViewController.initPlot()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 82,
+      "symbol": "PieChartViewController.configureHostView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 86,
+      "symbol": "PieChartViewController.configureGraph()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 111,
+      "symbol": "PieChartViewController.configureChart()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 142,
+      "symbol": "PieChartViewController.configureLegend()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 170,
+      "symbol": "PieChartViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 179,
+      "symbol": "PieChartViewController.numberOfRecords(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 183,
+      "symbol": "PieChartViewController.number(for:field:record:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 188,
+      "symbol": "PieChartViewController.dataLabel(for:record:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 196,
+      "symbol": "PieChartViewController.sliceFill(for:record:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ExpenseTracker/PieChartViewController.swift",
+      "line": 209,
+      "symbol": "PieChartViewController.legendTitle(for:record:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuAccountLoginViewController.swift",
+      "line": 22,
+      "symbol": "MenuAccountLoginViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuAccountLoginViewController.swift",
+      "line": 118,
+      "symbol": "MenuAccountLoginViewController.registerUserIntoDataBaseWithUIDInMenu(uid:values:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuAccountLoginViewController.swift",
+      "line": 133,
+      "symbol": "MenuAccountLoginViewController.NewFeatureTransit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuAccountLoginViewController.swift",
+      "line": 134,
+      "symbol": "MenuAccountLoginViewController.Login()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 18,
+      "symbol": "MenuBarViewController.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 29,
+      "symbol": "MenuBarViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 48,
+      "symbol": "MenuBarViewController.Dismiss(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 61,
+      "symbol": "MenuBarViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 69,
+      "symbol": "MenuBarViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 79,
+      "symbol": "MenuBarViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuBarViewController.swift",
+      "line": 180,
+      "symbol": "MenuBarViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 14,
+      "symbol": "MenuProfileEditorViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 20,
+      "symbol": "MenuProfileEditorViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 25,
+      "symbol": "MenuProfileEditorViewController.ContentViews",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 28,
+      "symbol": "MenuProfileEditorViewController.setNavigationBar()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 47,
+      "symbol": "MenuProfileEditorViewController.MenuVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 48,
+      "symbol": "MenuProfileEditorViewController.MenuTransit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuProfileEditorViewController.swift",
+      "line": 49,
+      "symbol": "MenuProfileEditorViewController.ToMenu()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuTableViewController.swift",
+      "line": 19,
+      "symbol": "MenuTableViewController.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuTableViewController.swift",
+      "line": 27,
+      "symbol": "MenuTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuTableViewController.swift",
+      "line": 34,
+      "symbol": "MenuTableViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Menu/MenuTableViewController.swift",
+      "line": 66,
+      "symbol": "MenuTableViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/ReminderStandardViewController.swift",
+      "line": 11,
+      "symbol": "ReminderStandardViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/ReminderStandardViewController.swift",
+      "line": 71,
+      "symbol": "ReminderStandardViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/ReminderStandardViewController.swift",
+      "line": 83,
+      "symbol": "ReminderStandardTableViewController.ChangeTheme()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/ReminderStandardViewController.swift",
+      "line": 102,
+      "symbol": "ReminderStandardTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/ReminderStandardViewController.swift",
+      "line": 112,
+      "symbol": "ReminderSTandardUICollectionViewController.ChangeTheme()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/ReminderStandardViewController.swift",
+      "line": 129,
+      "symbol": "ReminderSTandardUICollectionViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 18,
+      "symbol": "SettingBackGroundColorSelectorViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 47,
+      "symbol": "SettingBackGroundColorSelectorViewController.Default",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 49,
+      "symbol": "SettingBackGroundColorSelectorViewController.Option1s",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 51,
+      "symbol": "SettingBackGroundColorSelectorViewController.Option2s",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 53,
+      "symbol": "SettingBackGroundColorSelectorViewController.Option3s",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 55,
+      "symbol": "SettingBackGroundColorSelectorViewController.Option4s",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 61,
+      "symbol": "SettingBackGroundColorSelectorViewController.PopUpWindowPointer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 63,
+      "symbol": "SettingBackGroundColorSelectorViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 68,
+      "symbol": "SettingBackGroundColorSelectorViewController.PopUpWindow",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingBackGroundColorSelectorViewController.swift",
+      "line": 70,
+      "symbol": "SettingBackGroundColorSelectorViewController.Dismiss(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 16,
+      "symbol": "SettingTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 68,
+      "symbol": "SettingTableViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 76,
+      "symbol": "SettingTableViewController.ThemeSelector",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 78,
+      "symbol": "SettingTableViewController.TintSelector",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 117,
+      "symbol": "SettingTableViewController.SelectButtonTintColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 122,
+      "symbol": "SettingTableViewController.SelectTheme(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/Setting/SettingTableViewController.swift",
+      "line": 129,
+      "symbol": "SettingTableViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/List/AddNewListVC.swift",
+      "line": 53,
+      "symbol": "AddNewListVC.group",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/List/AddNewListVC.swift",
+      "line": 86,
+      "symbol": "AddNewListVC.saveNewListToFirebase()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/List/SharingListNoteListViewController.swift",
+      "line": 15,
+      "symbol": "SLNoteListDelegate.passingUser(user:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/List/SharingListNoteListViewController.swift",
+      "line": 62,
+      "symbol": "SharingListNoteListViewController.fbGroup",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/AnimUtils.swift",
+      "line": 14,
+      "symbol": "AnimUtils.tabBarController(_:animationControllerForTransitionFrom:to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/AnimUtils.swift",
+      "line": 23,
+      "symbol": "ScrollingTransitionAnimator.transitionContext",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/AnimUtils.swift",
+      "line": 24,
+      "symbol": "ScrollingTransitionAnimator.tabBarController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/AnimUtils.swift",
+      "line": 25,
+      "symbol": "ScrollingTransitionAnimator.lastIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SetCoreData.swift",
+      "line": 16,
+      "symbol": "setCoreData.initialCoreData(at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataClass.swift",
+      "line": 16,
+      "symbol": "SharingListNote.AA()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "SharingListNote.alarm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "SharingListNote.created",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 27,
+      "symbol": "SharingListNote.done",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 28,
+      "symbol": "SharingListNote.due",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 29,
+      "symbol": "SharingListNote.lastupdated",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 30,
+      "symbol": "SharingListNote.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 31,
+      "symbol": "SharingListNote.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNote+CoreDataProperties.swift",
+      "line": 32,
+      "symbol": "SharingListNote.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "SharingListNoteList.created",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "SharingListNoteList.fbID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 27,
+      "symbol": "SharingListNoteList.lastupdated",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 28,
+      "symbol": "SharingListNoteList.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 29,
+      "symbol": "SharingListNoteList.notes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 30,
+      "symbol": "SharingListNoteList.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 39,
+      "symbol": "SharingListNoteList.addToNotes(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 42,
+      "symbol": "SharingListNoteList.removeFromNotes(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 45,
+      "symbol": "SharingListNoteList.addToNotes(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListNoteList+CoreDataProperties.swift",
+      "line": 48,
+      "symbol": "SharingListNoteList.removeFromNotes(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "SharingListUser.lastselectedlist",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "SharingListUser.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 27,
+      "symbol": "SharingListUser.numofnotes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 28,
+      "symbol": "SharingListUser.lists",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 36,
+      "symbol": "SharingListUser.addToLists(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 39,
+      "symbol": "SharingListUser.removeFromLists(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 42,
+      "symbol": "SharingListUser.addToLists(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Model/SharingListUser+CoreDataProperties.swift",
+      "line": 45,
+      "symbol": "SharingListUser.removeFromLists(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewCell.swift",
+      "line": 64,
+      "symbol": "NSDate.stringValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 658,
+      "symbol": "ActionDescriptor.alarm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 658,
+      "symbol": "ActionDescriptor.alarmoff",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 658,
+      "symbol": "ActionDescriptor.cancel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 658,
+      "symbol": "ActionDescriptor.check",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 658,
+      "symbol": "ActionDescriptor.more",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 658,
+      "symbol": "ActionDescriptor.trash",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 713,
+      "symbol": "ButtonDisplayMode.imageOnly",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 713,
+      "symbol": "ButtonDisplayMode.titleAndImage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 713,
+      "symbol": "ButtonDisplayMode.titleOnly",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 721,
+      "symbol": "ButtonStyle.backgroundColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SharingList/Note/SharingListNotesTableViewController.swift",
+      "line": 721,
+      "symbol": "ButtonStyle.circular",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListAddCategoryViewController.swift",
+      "line": 38,
+      "symbol": "ShoppingListAddCategoryViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListAddCategoryViewController.swift",
+      "line": 87,
+      "symbol": "ShoppingListAddCategoryViewController.CancelAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListAddCategoryViewController.swift",
+      "line": 93,
+      "symbol": "ShoppingListAddCategoryViewController.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListAddCategoryViewController.swift",
+      "line": 98,
+      "symbol": "ShoppingListAddCategoryViewController.textFieldDidBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 19,
+      "symbol": "ShoppingListEditItemViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 208,
+      "symbol": "ShoppingListEditItemViewController.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 220,
+      "symbol": "ShoppingListEditItemViewController.textFieldShouldEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 279,
+      "symbol": "ShoppingListEditItemViewController.UnitPickerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 287,
+      "symbol": "ShoppingListEditItemViewController.CategoryPickerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 295,
+      "symbol": "ShoppingListEditItemViewController.NeedByDatePicker",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 304,
+      "symbol": "ShoppingListEditItemViewController.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListEditItemViewController.swift",
+      "line": 321,
+      "symbol": "ShoppingListEditItemViewController.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 17,
+      "symbol": "ShoppingListMainViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 114,
+      "symbol": "ShoppingListMainViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 124,
+      "symbol": "ShoppingListMainViewController.tableView(_:editActionsForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 156,
+      "symbol": "ShoppingListMainViewController.tableView(_:willDisplayHeaderView:forSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 173,
+      "symbol": "ShoppingListMainViewController.tableView(_:leadingSwipeActionsConfigurationForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 190,
+      "symbol": "ShoppingListMainViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 206,
+      "symbol": "ShoppingListMainViewController.ShoppingListItemTableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListMainViewController.swift",
+      "line": 303,
+      "symbol": "ShoppingListMainViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 12,
+      "symbol": "ShoppingListTableViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 29,
+      "symbol": "ShoppingListTableViewController.CheckServerUpdatedItem(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 48,
+      "symbol": "ShoppingListTableViewController.refreshController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 58,
+      "symbol": "ShoppingListTableViewController.ItemDownloaded(items:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 71,
+      "symbol": "ShoppingListTableViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 79,
+      "symbol": "ShoppingListTableViewController.context",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 88,
+      "symbol": "ShoppingListTableViewController.fetchedResultController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 90,
+      "symbol": "ShoppingListTableViewController.updateUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 105,
+      "symbol": "ShoppingListTableViewController.controllerWillChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 110,
+      "symbol": "ShoppingListTableViewController.controller(_:didChange:atSectionIndex:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 120,
+      "symbol": "ShoppingListTableViewController.controller(_:didChange:at:for:newIndexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 138,
+      "symbol": "ShoppingListTableViewController.controllerDidChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 146,
+      "symbol": "ShoppingListTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 167,
+      "symbol": "ShoppingListTableViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 175,
+      "symbol": "ShoppingListTableViewController.tableView(_:titleForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 181,
+      "symbol": "ShoppingListTableViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Controller/ShoppingListTableViewController.swift",
+      "line": 195,
+      "symbol": "ShoppingListTableViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/DoubleExtension.swift",
+      "line": 14,
+      "symbol": "Double.toInt()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ReminderDateFormatter.swift",
+      "line": 11,
+      "symbol": "ReminderDateFormatter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ReminderDateFormatter.swift",
+      "line": 13,
+      "symbol": "ReminderDateFormatter.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ReminderDateFormatter.swift",
+      "line": 21,
+      "symbol": "ReminderDateFormatter.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 11,
+      "symbol": "ShoppingListPickerView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 21,
+      "symbol": "ShoppingListPickerView.context",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 23,
+      "symbol": "ShoppingListPickerView.addCustomCategory()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 42,
+      "symbol": "ShoppingListPickerView.ShoppingListPickerViewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 44,
+      "symbol": "ShoppingListPickerView.init(Type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 52,
+      "symbol": "ShoppingListPickerView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 56,
+      "symbol": "ShoppingListPickerView.UnitDropDownInformation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 58,
+      "symbol": "ShoppingListPickerView.CategoryDorpDownInformation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 60,
+      "symbol": "ShoppingListPickerView.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/ShoppingListPickerView.swift",
+      "line": 77,
+      "symbol": "ShoppingListPickerView.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/StringExtension.swift",
+      "line": 12,
+      "symbol": "String.numbers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/UITextField Extension.swift",
+      "line": 14,
+      "symbol": "UITextField.addToolbar(DoneButton:CancelButton:AddCategory:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/UITextField Extension.swift",
+      "line": 48,
+      "symbol": "UITextField.CancelButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/UITextField Extension.swift",
+      "line": 53,
+      "symbol": "UITextField.DoneButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Extensions/UITextField Extension.swift",
+      "line": 58,
+      "symbol": "UITextField.AddCategoryTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/Category.swift",
+      "line": null,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/Category.swift",
+      "line": 15,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 11,
+      "symbol": "MenuTransitioning",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 17,
+      "symbol": "MenuTransitioning.transitionDuration(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 21,
+      "symbol": "MenuTransitioning.animateTransition(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 52,
+      "symbol": "MenuTransitioning.animationController(forPresented:presenting:source:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 57,
+      "symbol": "MenuTransitioning.animationController(forDismissed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 64,
+      "symbol": "NewFeatureTransitioning",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 70,
+      "symbol": "NewFeatureTransitioning.transitionDuration(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 74,
+      "symbol": "NewFeatureTransitioning.animateTransition(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 112,
+      "symbol": "NewFeatureTransitioning.animationController(forPresented:presenting:source:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 117,
+      "symbol": "NewFeatureTransitioning.animationController(forDismissed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 126,
+      "symbol": "DismissTransitioning",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 129,
+      "symbol": "DismissTransitioning.transitionDuration(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/CustomTransitioning.swift",
+      "line": 133,
+      "symbol": "DismissTransitioning.animateTransition(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/LocalNotifications.swift",
+      "line": 14,
+      "symbol": "LocalNotifications",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/LocalNotifications.swift",
+      "line": 18,
+      "symbol": "LocalNotifications.AddLocalNotifications(TypeObject:ObjectID:Title:DateTime:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/LocalNotifications.swift",
+      "line": 47,
+      "symbol": "LocalNotifications.DeleteNotifications(TypeObject:ObjectID:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/LocalNotifications.swift",
+      "line": 54,
+      "symbol": "LocalNotifications.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/LocalNotifications.swift",
+      "line": 59,
+      "symbol": "LocalNotifications.userNotificationCenter(_:didReceive:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 13,
+      "symbol": "PHPModelProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 14,
+      "symbol": "PHPModelProtocol.ItemDownloaded(items:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 17,
+      "symbol": "PHPModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 20,
+      "symbol": "PHPModel.init(TypeObject:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 24,
+      "symbol": "PHPModel.context",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 26,
+      "symbol": "PHPModel.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 28,
+      "symbol": "PHPModel.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 30,
+      "symbol": "PHPModel.TypeObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 32,
+      "symbol": "PHPModel.URLPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 34,
+      "symbol": "PHPModel.AddUser()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 72,
+      "symbol": "PHPModel.FetchItem()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 108,
+      "symbol": "PHPModel.UpdateItem()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 141,
+      "symbol": "PHPModel.DeleteItem()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 177,
+      "symbol": "PHPModel.AddItem()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 238,
+      "symbol": "PHPModel.parseJSON(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/PHPModel.swift",
+      "line": 335,
+      "symbol": "PHPModel.parseJSONforStandardTask(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 12,
+      "symbol": "ServerObject",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 14,
+      "symbol": "ServerObject.init(Dictionary:Username:ObjectID:updateDate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 23,
+      "symbol": "ServerObject.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 24,
+      "symbol": "ServerObject.updateDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 25,
+      "symbol": "ServerObject.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 26,
+      "symbol": "ServerObject.dictionary",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 28,
+      "symbol": "ServerObject.AddObjectToServer(TypeOfObject:Dictionary:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 45,
+      "symbol": "ServerObject.UpdateObjectToServer(TypeOfObject:Dictionary:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ServerObject.swift",
+      "line": 61,
+      "symbol": "ServerObject.DeleteObjectFromServer(TypeOfObject:ObjectID:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": null,
+      "symbol": "ShoppingListItem",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 12,
+      "symbol": "ShoppingListItem",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 16,
+      "symbol": "ShoppingListItem.context",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 18,
+      "symbol": "ShoppingListItem.Tool",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 19,
+      "symbol": "ShoppingListItem.FetchCurrentUserItemFromServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 26,
+      "symbol": "ShoppingListItem.AddNotification()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 75,
+      "symbol": "ShoppingListItem.AddToServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 96,
+      "symbol": "ShoppingListItem.DeleteFromServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 102,
+      "symbol": "ShoppingListItem.UpdateToServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 110,
+      "symbol": "ShoppingListItem.CompareAndUpdate(Object:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 169,
+      "symbol": "ShoppingListItem.AddToCoreData(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 188,
+      "symbol": "ShoppingListItem.UpdateServerObject(_:CoreDataObject:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItem.swift",
+      "line": 202,
+      "symbol": "ShoppingListItem.FindExcessObject(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItemFetchTool.swift",
+      "line": 12,
+      "symbol": "ShoppingListItemFetchTool",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItemFetchTool.swift",
+      "line": 15,
+      "symbol": "ShoppingListItemFetchTool.ItemDownloaded(items:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItemFetchTool.swift",
+      "line": 26,
+      "symbol": "ShoppingListItemFetchTool.ServerRequest",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListItemFetchTool.swift",
+      "line": 37,
+      "symbol": "ShoppingListItemFetchTool.CheckServerUpdatedItem()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 12,
+      "symbol": "ShoppingListServerObject",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 14,
+      "symbol": "ShoppingListServerObject.itemName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 15,
+      "symbol": "ShoppingListServerObject.dueDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 16,
+      "symbol": "ShoppingListServerObject.done",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 17,
+      "symbol": "ShoppingListServerObject.category",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 18,
+      "symbol": "ShoppingListServerObject.amountUnit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 19,
+      "symbol": "ShoppingListServerObject.amount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 24,
+      "symbol": "ShoppingListServerObject.getUid()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 28,
+      "symbol": "ShoppingListServerObject.NewUser(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/Model/ShoppingListServerObject.swift",
+      "line": 39,
+      "symbol": "ShoppingListServerObject.DoneLogin()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListAddToolBar.swift",
+      "line": 41,
+      "symbol": "ShoppingListAddToolBar.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListAddToolBar.swift",
+      "line": 115,
+      "symbol": "ShoppingListAddToolBar.textFieldShouldEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListAddToolBar.swift",
+      "line": 124,
+      "symbol": "ShoppingListAddToolBar.textFieldShouldBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListAddToolBar.swift",
+      "line": 198,
+      "symbol": "ShoppingListAddToolBar.DoneButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListAddToolBar.swift",
+      "line": 287,
+      "symbol": "ShoppingListAddToolBar.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListAddToolBar.swift",
+      "line": 304,
+      "symbol": "ShoppingListAddToolBar.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListItemCellTableViewCell.swift",
+      "line": 21,
+      "symbol": "ShoppingListItemCellTableViewCell.MarkDone()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListItemCellTableViewCell.swift",
+      "line": 66,
+      "symbol": "ShoppingListItemCellTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/ShoppingList/View/ShoppingListItemCellTableViewCell.swift",
+      "line": 82,
+      "symbol": "ShoppingListItemCellTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 15,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 20,
+      "symbol": "AppDelegate.registerCategory()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 35,
+      "symbol": "AppDelegate.CustomTransition",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.NewFeatureTransition",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 38,
+      "symbol": "AppDelegate.PersistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 44,
+      "symbol": "AppDelegate.Delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 46,
+      "symbol": "AppDelegate.AddQuickAction()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 54,
+      "symbol": "AppDelegate.application(_:willFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 77,
+      "symbol": "AppDelegate.InitVC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 79,
+      "symbol": "AppDelegate.application(_:performActionFor:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 94,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 101,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 106,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 111,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 115,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 119,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 127,
+      "symbol": "AppDelegate.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/SupportFiles/AppDelegate.swift",
+      "line": 156,
+      "symbol": "AppDelegate.saveContext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTask.swift",
+      "line": null,
+      "symbol": "StandardTask",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTask.swift",
+      "line": 13,
+      "symbol": "StandardTask",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTask.swift",
+      "line": 15,
+      "symbol": "StandardTask.ToDICT()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTask.swift",
+      "line": 56,
+      "symbol": "StandardTask.AddToServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTask.swift",
+      "line": 66,
+      "symbol": "StandardTask.DeleteFromServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTask.swift",
+      "line": 71,
+      "symbol": "StandardTask.UpdateToServer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 12,
+      "symbol": "StandardTaskMainTableViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 15,
+      "symbol": "StandardTaskMainTableViewController.context",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 16,
+      "symbol": "StandardTaskMainTableViewController.FetchResultController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 21,
+      "symbol": "StandardTaskMainTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 30,
+      "symbol": "StandardTaskMainTableViewController.UpdateUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 40,
+      "symbol": "StandardTaskMainTableViewController.controllerWillChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 44,
+      "symbol": "StandardTaskMainTableViewController.controller(_:didChange:atSectionIndex:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 54,
+      "symbol": "StandardTaskMainTableViewController.controller(_:didChange:at:for:newIndexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 68,
+      "symbol": "StandardTaskMainTableViewController.controllerDidChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 72,
+      "symbol": "StandardTaskMainTableViewController.AddTask(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 90,
+      "symbol": "StandardTaskMainTableViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 94,
+      "symbol": "StandardTaskMainTableViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 102,
+      "symbol": "StandardTaskMainTableViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 141,
+      "symbol": "StandardTaskMainTableViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 145,
+      "symbol": "StandardTaskMainTableViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 156,
+      "symbol": "StandardTaskMainTableViewController.tableView(_:editActionsForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 165,
+      "symbol": "StandardTaskMainTableViewController.DeleteStandardTaskItem(_:row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 186,
+      "symbol": "StandardTaskMainTableViewController.CheckServerUpdatedItem(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 216,
+      "symbol": "StandardTaskMainTableViewController.refreshController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 279,
+      "symbol": "StandardTaskMainTableViewController.ItemDownloaded(items:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskMainTableViewController.swift",
+      "line": 302,
+      "symbol": "StandardTaskMainTableViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskSeverObject.swift",
+      "line": 10,
+      "symbol": "StandardTaskSeverObject",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskSeverObject.swift",
+      "line": 12,
+      "symbol": "StandardTaskSeverObject.taskName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskSeverObject.swift",
+      "line": 13,
+      "symbol": "StandardTaskSeverObject.reminderTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskSeverObject.swift",
+      "line": 14,
+      "symbol": "StandardTaskSeverObject.frequence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskSeverObject.swift",
+      "line": 15,
+      "symbol": "StandardTaskSeverObject.dueDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskSeverObject.swift",
+      "line": 16,
+      "symbol": "StandardTaskSeverObject.checkMark",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 11,
+      "symbol": "StandardTaskCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 12,
+      "symbol": "StandardTaskCell.TaskName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 13,
+      "symbol": "StandardTaskCell.Data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 14,
+      "symbol": "StandardTaskCell.TimeLeft",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 17,
+      "symbol": "StandardTaskCell.repeatFreqence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 19,
+      "symbol": "StandardTaskCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/StandardTaskTableViewCell.swift",
+      "line": 24,
+      "symbol": "StandardTaskCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 12,
+      "symbol": "TaskEditViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 14,
+      "symbol": "TaskEditViewController.context",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 17,
+      "symbol": "TaskEditViewController.SharingWith",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 20,
+      "symbol": "TaskEditViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 28,
+      "symbol": "TaskEditViewController.RepeatFrequence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 35,
+      "symbol": "TaskEditViewController.RepeatFrequencePickerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 46,
+      "symbol": "TaskEditViewController.frequence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 48,
+      "symbol": "TaskEditViewController.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 52,
+      "symbol": "TaskEditViewController.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 56,
+      "symbol": "TaskEditViewController.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 60,
+      "symbol": "TaskEditViewController.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 64,
+      "symbol": "TaskEditViewController.AddTaskName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 70,
+      "symbol": "TaskEditViewController.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 76,
+      "symbol": "TaskEditViewController.textFieldDidEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 84,
+      "symbol": "TaskEditViewController.RemindTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 91,
+      "symbol": "TaskEditViewController.Remindtimepicker",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 100,
+      "symbol": "TaskEditViewController.TaskDueDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 107,
+      "symbol": "TaskEditViewController.TaskDueDatePicker",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 117,
+      "symbol": "TaskEditViewController.textFieldShouldEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/Reminder/TodoStandard/TaskEditViewController.swift",
+      "line": 139,
+      "symbol": "TaskEditViewController.Save(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/Category+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "Category.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/Category+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "Category.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/EItem+CoreDataClass.swift",
+      "line": null,
+      "symbol": "EItem",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/EItem+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "EItem",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/EItem+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "EItem.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/EItem+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "EItem.category",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/EItem+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "EItem.content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/EItem+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "EItem.cost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "ShoppingListItem.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "ShoppingListItem.amount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "ShoppingListItem.amountUnit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "ShoppingListItem.category",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 23,
+      "symbol": "ShoppingListItem.done",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 24,
+      "symbol": "ShoppingListItem.dueDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "ShoppingListItem.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "ShoppingListItem.itemName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 27,
+      "symbol": "ShoppingListItem.offLineAdded",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 28,
+      "symbol": "ShoppingListItem.offLineDeleted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 29,
+      "symbol": "ShoppingListItem.updateDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/ShoppingListItem+CoreDataProperties.swift",
+      "line": 30,
+      "symbol": "ShoppingListItem.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "StandardTask.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "StandardTask.checkMark",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "StandardTask.dueDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "StandardTask.frequence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 23,
+      "symbol": "StandardTask.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 24,
+      "symbol": "StandardTask.reminderTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "StandardTask.taskName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR/build/Reminder.build/Release-iphoneos/Reminder.build/DerivedSources/CoreDataGenerated/Reminder/StandardTask+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "StandardTask.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Jason/Desktop/Google Drive/Iowa State Class/Com S 309/iOS work space/GroupProject/GK_B_2_EULPKR"
+}
